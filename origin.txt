@@ -2,3 +2,7 @@ origin
 origin
 origin
 origin
+git remote add origin url
+git fetch origin main
+git pull origin main
+git push origin branchname/main
